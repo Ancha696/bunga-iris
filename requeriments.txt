@@ -1,32 +1,4 @@
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "provenance": []
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "code",
-      "execution_count": null,
-      "metadata": {
-        "id": "GwSc8W4cL-8Q"
-      },
-      "outputs": [],
-      "source": [
-        "joblib\n",
-        "streamlit\n",
-        "scikit-learn\n",
-        "pandas"
-      ]
-    }
-  ]
-}
+joblib
+streamlit
+scikit-learn
+pandas
